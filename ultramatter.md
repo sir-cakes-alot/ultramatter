@@ -395,32 +395,37 @@ UME is an electron analog.
 - Indistinguishable from a normal electron by any conventional means
 
 ---
-
+ 
 ## 20. UME Activation
-
+ 
 UME activates whenever:
 - It occupies the same atom as an activated UMP or UMN
 - It belongs to the same entanglement network as an activated ultramatter particle
 - A UMxL in the same atom activates (mutual co-location trigger)
 
+### 20.1 The QM Energy Theft Mechanism
+ 
+Quantum mechanics is not a passive description of matter — it requires an active **energy substrate** to operate. Zero-point fluctuations, orbital quantization, uncertainty, and virtual particle activity all draw from this substrate continuously.
+ 
+When UME activates, it does not merely participate in a nuclear event. It **intercepts and absorbs the local QM energy budget** — the energy that would otherwise sustain quantum mechanical behavior in the affected region. This is the same energy suppressed during ultra-vacuum formation, but UME captures it rather than simply displacing it.
+ 
+With the local QM energy budget seized, UME applies $E = mc^2$ in reverse:
+ 
+$$E_{QM} = m_{proton} c^2$$
+ 
+$$m_{proton} = \frac{E_{QM}}{c^2}$$
+ 
+The stolen quantum energy is converted directly into the **rest mass of one ordinary proton**. No external mass or energy source is required. The proton does not come from nowhere — it comes from the energy that quantum mechanics itself was consuming.
+ 
 **Upon activation:**
-1. The energy normally supporting the suppressed local quantum vacuum is redirected
-2. One ordinary proton is created
-3. The proton is incorporated into the affected nucleus
+1. UME intercepts and absorbs the local QM energy substrate
+2. Absorbed energy is converted to proton rest mass via $E = mc^2$
+3. One ordinary proton is created and incorporated into the affected nucleus
 4. The UME is annihilated
-
 The created proton is an **ordinary proton**, not a UM particle. The resulting nucleus obeys ordinary nuclear physics, with stability determined entirely by conventional nuclear interactions.
-
----
-
-## 21. Multiple UME Per Atom
-
-An atom may contain multiple UME particles. If an atom contains $n$ UME particles, activation simultaneously creates $n$ ordinary protons:
-
-$$Z \rightarrow Z + n$$
-
-Transmutation occurs as a **single nuclear event**. The number of UME particles that may participate is limited by the number physically present within the atom, plus any additional UME particles connected through the entanglement network.
-
+ 
+> **Implication:** UME transmutation is only possible where quantum mechanics is active. Inside an already-established ultra-vacuum, where the QM energy substrate is already suppressed, UME has nothing to steal and cannot produce a proton. UME must activate at the **boundary or exterior** of an ultra-vacuum event to function.
+ 
 ---
 
 ## 22. UME Entanglement and Local Detonation
@@ -639,7 +644,6 @@ Important unresolved theoretical issues include:
 - Where does the radiation storage domain exist?
 - How does UMxH targeting select the nearest UMxL through isotropic propagation?
 - What limits UMxL storage capacity?
-- Where does the added proton mass originate in UME activation?
 - How is entanglement preserved through activation events?
 - What determines maximum ultra-vacuum size?
 - Can UM particles be naturally produced?
