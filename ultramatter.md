@@ -665,8 +665,3 @@ Ultramatter is a hypothetical framework describing a material capable of manipul
 Together, these systems represent a theoretical transition from conventional engineering — which manipulates objects within fixed physical rules — to a new discipline:
 
 > **Engineering the conditions under which physical rules operate.**
-
----
-
-*Ultramatter Framework — Version 2.0*
-*© Blake — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
