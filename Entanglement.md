@@ -1,10 +1,3 @@
-# 04 — Entanglement and UE Networks
-
-> Part of the [Ultramatter Framework](ultramatter.md) · Sections 19–25
-> **Prerequisites:** [01 — Foundations](01-foundations.md), [02 — Vacuum Engineering](02-vacuum-engineering.md), [03 — Radiation Engineering](03-radiation-engineering.md) · **Previous:** [03](03-radiation-engineering.md) · **Next:** [05 — Matter Engineering](05-matter-engineering.md)
-
----
-
 ## 19. Entanglement System
 
 Entanglement is represented by:
