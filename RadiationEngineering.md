@@ -1,10 +1,3 @@
-# 03 — Radiation Engineering
-
-> Part of the [Ultramatter Framework](ultramatter.md) · Sections 14–18
-> **Prerequisites:** [01 — Foundations](01-foundations.md) (esp. Section 2.4, bound UE), [02 — Vacuum Engineering](02-vacuum-engineering.md) · **Previous:** [02](02-vacuum-engineering.md) · **Next:** [04 — Entanglement and UE Networks](04-entanglement.md)
-
----
-
 ## 14. H/L Ultramatter
 
 The H/L system introduces independent activation and radiation storage.
