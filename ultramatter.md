@@ -29,12 +29,12 @@ The framework is split into six modules plus this overview. Section numbers are 
 
 | Module | Sections | Covers |
 |---|---|---|
-| [01 — Foundations](01-foundations.md) | 1–4 | Ultra-energy, the UE spectrum, particle taxonomy |
-| [02 — Vacuum Engineering](02-vacuum-engineering.md) | 5–13 | UMP/UMN, ultra-vacuums, quantum suspension, displacement, collapse, cooldown, geometry |
-| [03 — Radiation Engineering](03-radiation-engineering.md) | 14–18 | UMxH/UMxL, bound UE, radiation storage, UMxL activation |
-| [04 — Entanglement and UE Networks](04-entanglement.md) | 19–25 | Entanglement, load balancing, UE tunneling, hyper-quantum regions, UE pumping, conjoined vacuums |
-| [05 — Matter Engineering](05-matter-engineering.md) | 26–30 | UME, transmutation, local detonation |
-| [06 — Mathematics](06-mathematics.md) | 31–36 | Constants, radius equations, radiation compensation, scaling, re-quantization pulse, lifetime |
+| [01 — Foundations](Foundations.md) | 1–4 | Ultra-energy, the UE spectrum, particle taxonomy |
+| [02 — Vacuum Engineering](VacuumEngineering.md) | 5–13 | UMP/UMN, ultra-vacuums, quantum suspension, displacement, collapse, cooldown, geometry |
+| [03 — Radiation Engineering](RadiationEngineering.md) | 14–18 | UMxH/UMxL, bound UE, radiation storage, UMxL activation |
+| [04 — Entanglement and UE Networks](Entanglement.md) | 19–25 | Entanglement, load balancing, UE tunneling, hyper-quantum regions, UE pumping, conjoined vacuums |
+| [05 — Matter Engineering](MatterEngineering.md) | 26–30 | UME, transmutation, local detonation |
+| [06 — Mathematics](Mathematics.md) | 31–36 | Constants, radius equations, radiation compensation, scaling, re-quantization pulse, lifetime |
 
 **Suggested reading order:** 01 → 02 → 03 → 04 → 05 → 06. Each module lists its prerequisites at the top. If you only want the numbers, jump straight to 06.
 
