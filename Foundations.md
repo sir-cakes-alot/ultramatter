@@ -1,10 +1,3 @@
-# 01 — Foundations
-
-> Part of the [Ultramatter Framework](ultramatter.md) · Sections 1–4
-> **Prerequisites:** none · **Next:** [02 — Vacuum Engineering](02-vacuum-engineering.md)
-
----
-
 ## 1. Introduction
 
 Conventional engineering operates within fixed physical conditions.
