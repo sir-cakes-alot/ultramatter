@@ -1,10 +1,3 @@
-# 02 — Vacuum Engineering
-
-> Part of the [Ultramatter Framework](ultramatter.md) · Sections 5–13
-> **Prerequisites:** [01 — Foundations](01-foundations.md) · **Previous:** [01](01-foundations.md) · **Next:** [03 — Radiation Engineering](03-radiation-engineering.md)
-
----
-
 ## 5. Base Ultramatter: UMP and UMN
 
 ### 5.1 Nuclear Integration
