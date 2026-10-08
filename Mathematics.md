@@ -1,10 +1,3 @@
-# 06 — Mathematics
-
-> Part of the [Ultramatter Framework](ultramatter.md) · Sections 31–36
-> **Prerequisites:** [02 — Vacuum Engineering](02-vacuum-engineering.md), [03 — Radiation Engineering](03-radiation-engineering.md), [04 — Entanglement and UE Networks](04-entanglement.md) (for $r_{base}$) · **Previous:** [05](05-matter-engineering.md)
-
----
-
 ## 31. Framework Constants
 
 | Constant | Symbol | Units | Meaning |
